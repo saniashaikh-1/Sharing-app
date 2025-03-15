@@ -50,7 +50,7 @@ pip install pyqrcode pypng
 This project is licensed under the **MIT License**. Feel free to use and modify it!
 
 ---
-**Author:** Your Name  
-📧 Contact: your.email@example.com  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+**Author:** Sania Shaikh  
+📧 Contact: saniashaikh2800@gmail.com
+🌐 GitHub: [saniashaikh-1](https://github.com/saniashaikh-1)
 
